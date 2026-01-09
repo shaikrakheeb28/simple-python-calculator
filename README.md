@@ -39,4 +39,4 @@ pip install pytest
 | Divide    | 10 / 0         | Error       |
 
 ## Author
-Sekhar Metla - (https://harisystems.com)
+Shaik RAkheeb - (https://github.com/shaikrakheeb28)
